@@ -24,7 +24,7 @@ This is a project to deploy 'llama.cpp' with the email, especially on some small
 5. Place model weights in the `./llama.cpp-master/models/` folder.  
    e.g. It may be like: `.../llama.cpp-master/models/7B/ggml-model-q4_1.bin`
 7. Adjusting the email parameters in [`./mail/mail_options.py`](./mail/mail_options.py).
-8. Run [`main.py`](./main.py)
+8. Run [`main.py`](./main.py).
 
 ## Some other statements
 - In principle, the LLaMA models are officially distributed by Facebook and should not be provided through this repository. So please refer to [Facebook's LLaMA repository](https://github.com/facebookresearch/llama) if you need to request access to the model data.
