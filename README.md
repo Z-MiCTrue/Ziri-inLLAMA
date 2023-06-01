@@ -8,7 +8,6 @@ This is a project to deploy 'llama.cpp' with the email, especially on some small
    __init__.py
    llama.cpp-master
    mail
-   main_direct.py
    main.py
    ```
 2. Install Python dependencies.
