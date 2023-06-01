@@ -1,6 +1,6 @@
 # Ziri-inLLAMA
 This is a project to deploy 'llama.cpp' with the email, especially on some small devices, such as Raspberry Pi or Orange Pi. Let the email learn to speak.  
-  
+
 ## Quick Start
 1. Download or clone the repository -- [`llama.cpp`](https://github.com/ggerganov/llama.cpp) and unzip it to the current directory.  
    After completing these steps, your directory structure may will look like this:
